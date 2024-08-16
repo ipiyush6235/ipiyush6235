@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Piyush Kumar Badhan</h1>
+<h3 align="center">💻 B.Tech CSE Student | Web Designer & Developer I'm currently pursuing a B.Tech in Computer Science and Engineering, with a passion for crafting visually stunning and highly functional websites. 🎓 Education: B.Tech in Computer Science and Engineering (CSE) RAYAT BAHRA UNIVERSIRT (Year of Graduation 2025)</h3>
+
+- 📫 How to reach me **piyushkd96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

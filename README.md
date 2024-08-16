@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar Badhan</h1>
 <h3 align="center">💻 B.Tech CSE Student | Web Designer & Developer I'm currently pursuing a B.Tech in Computer Science and Engineering, with a passion for crafting visually stunning and highly functional websites.
-  ----------------------------------------------------------------------------------------------------------------------------------------------
   <h4>🎓 Education:</h4>
   B.Tech in Computer Science and Engineering (CSE) RAYAT BAHRA UNIVERSIRT (Year of Graduation 2025)</h3>
 
